@@ -1,10 +1,10 @@
 # Hackverse
 
-Title : FitGuy
+Title : FitGuy's Adventures
 
-Description : This is a web application which suggests the user different exercises and diet plans to follow based on his or her workstyle.
+Description : In this hack we will be developing a web application using MEAN stack which suggests workout routines and diet plans based on the user's lifestyle and we'll try to connect an interactive story along with the exercises so that the user will feel motivated.
 
-Tech Stack : HTML, CSS, Nodejs, Mongodb
+Tech Stack : MEAN
 
 Libraries and Dependencies : 
 
